@@ -1,1 +1,1 @@
-I'm now a Holberton Student, this is my first repository as a full-stack engineer
+In the this repository you look at de first basic proyect about emacs editor 0-opening
