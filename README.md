@@ -1,12 +1,12 @@
 
 
-[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/) [![GitHub contributors](https://img.shields.io/github/contributors/EckoJuan/holbertonschool-zero_day?style=plastic)](https://github.com/EckoJuan/holbertonschool-zero_day/graphs/contributors)  [![GitHub commits](https://img.shields.io/github/commit-activity/y/eckojuan/holbertonschool-zero_day?style=plastic)](https://github.com/EckoJuan/holbertonschool-zero_day/commits/master) 
+[![Bash Shell](https://badges.frapsoft.com/bash/v1/bash.png?v=103)](https://github.com/ellerbrock/open-source-badges/)   [![GitHub contributors](https://img.shields.io/github/contributors/EckoJuan/holbertonschool-zero_day?style=plastic)](https://github.com/EckoJuan/holbertonschool-zero_day/graphs/contributors)    [![GitHub commits](https://img.shields.io/github/commit-activity/y/eckojuan/holbertonschool-zero_day?style=plastic)](https://github.com/EckoJuan/holbertonschool-zero_day/commits/master) 
 
 
 
 # Welcome to Holberton
 <img src="https://pulsosocial.com/wp-content/uploads/2018/12/instalaciones.jpg"
-     alt="shell_holberton_cali"
+     alt="holberton_san_francisco"
      style="float: left; margin-right: 10px;">
 
 
