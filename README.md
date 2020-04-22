@@ -19,8 +19,8 @@
           </a>
      </p>
      <p align="center">
-     <h1 align="center">Welcome to </h1>
-     <img src="https://www.holbertonschool.com/holberton-logo.png"/>
+          <h1 align="center">Welcome to </h1>
+          <img src="https://www.holbertonschool.com/holberton-logo.png" width="360"/>
      </p>
 </p>
 
