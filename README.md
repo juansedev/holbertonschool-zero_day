@@ -20,7 +20,9 @@
      </p>
      <p align="center">
           <h1 align="center">Welcome to </h1>
+          <p align="center">
           <img src="https://www.holbertonschool.com/holberton-logo.png" width="360"/>
+          </p>
      </p>
 </p>
 
